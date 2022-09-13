@@ -1,3 +1,6 @@
 hello = 'Hello git'
+hello_name = []
 for hellou in hello:
-    print(hellou)
+    hello_name.append(hellou)
+print(hello_name)
+
